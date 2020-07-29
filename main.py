@@ -19,8 +19,8 @@ driver = webdriver.Chrome(executable_path=path, options=option)
 driver.maximize_window()
 
 LOGIN_URL = 'https://www.upwork.com/ab/account-security/login'
-USERNAME = 'chesterdealday@gmail.com'
-PASSWORD = '7w5i9oxkgr3J'
+USERNAME = ''
+PASSWORD = ''
 
 driver.get(LOGIN_URL)
 time.sleep(3)
