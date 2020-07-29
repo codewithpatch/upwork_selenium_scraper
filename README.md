@@ -7,6 +7,15 @@ Selenium Scraper for Upwork
 pip install -r requirements.txt
 ```
 
+## ChromeDriver
+1. The development of this script is using chromedriver84 version for mac.
+2. Check your chrome version in the about page of chrome.
+3. Download your corresponding chromedriver version in chromedrier website https://chromedriver.chromium.org/downloads
+4. Make sure to download the chromedriver version corresponding to your OS(Mac, Windows, Linux)
+
+## Changing Credentials
+1. Open main.py and change USERNAME and PASSWORD variables with your upwork login credentials
+
 ## Running the script
 1. From the root directory, run:
 ```
