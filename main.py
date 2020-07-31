@@ -69,6 +69,7 @@ class FreelancerScraper:
         return self.driver.page_source
 
     def go_next_page(self):
+        current_url = self.driver.current_url
         next_page_button = ''
         for i in range(8, 11):
             try:
@@ -94,9 +95,14 @@ class FreelancerScraper:
         if next_page_button:
             next_page_button.click()
             time.sleep(3)
+
+            next_page_url = self.driver.current_url
+            if current_url == next_page_url:
+                print("No more next page")
+                return 0
+
             return self.driver.page_source
         else:
-            "No more next page"
             return 0
 
     def get_freelancer_link(self, page_source):
