@@ -14,7 +14,9 @@ pip install -r requirements.txt
 4. Make sure to download the chromedriver version corresponding to your OS(Mac, Windows, Linux)
 
 ## Changing Credentials
-1. Open main.py and change USERNAME and PASSWORD variables with your upwork login credentials
+1. Open main.py
+2. Go to line 16 and 17
+3. change username and password variables with your upwork login credentials
 
 ## Running the script
 1. From the root directory, run:
