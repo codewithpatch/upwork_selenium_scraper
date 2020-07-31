@@ -23,3 +23,8 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+
+## Output file
+```
+freelancer.json
+```
