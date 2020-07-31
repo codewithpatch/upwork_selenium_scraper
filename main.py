@@ -13,8 +13,8 @@ from pipelines import FreelancerScraperPipeline
 
 class FreelancerScraper:
     login_url = 'https://www.freelancer.com/login'
-    username = 'chesterdealday@gmail.com'
-    password = '7w5i9oxkgr3J'
+    username = ''
+    password = ''
 
     def __init__(self):
         self.path = os.path.join(os.getcwd(), 'chromedriver')
@@ -85,8 +85,11 @@ class FreelancerScraper:
                             '//*[@id="search-results"]/div[2]/ul/li[{}]/a'.format(e)
                         )
                         time.sleep(0.5)
+
                         if next_page_button.text == 'Next':
                             break
+                    except:
+                        break
 
         if next_page_button:
             next_page_button.click()
