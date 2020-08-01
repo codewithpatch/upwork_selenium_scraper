@@ -2,9 +2,9 @@ import json
 
 
 class FreelancerScraperPipeline:
-    def open_spider(self):
+    def open_spider(self, typ):
         print("Writing output file...")
-        self.file = open('freelancer.json', 'w', encoding='utf-8')
+        self.file = open('{}.json'.format(typ), 'w', encoding='utf-8')
         self.file.write("[\n")
 
     def close_spider(self):
