@@ -1,0 +1,533 @@
+[
+{
+    "title": " Wanted a developer for MarTech team  Wanted a developer for MarTech team ",
+    "project rate": "$1,500.00 – 3,000.00 USD",
+    "description": "Octolis - data analysis platform. Marketing automation / MarTech (SaaS).It's time to start a new sub-project that will be built from scratch with a stack of technologies described below. The project has new requirements for throughput to solve a new class of business tasks more details in the 'Business Needs' section.Octolis team is looking for a developer who has experience withStackNode.js - 3yTDD/BDD: Mocha, Jest, Cucumber - 3yDocker - 3yPostgreSQL or MySQL - 2yMongoDB - 2yCloud services: AWS or GCP - 1yAngular2+ or React & Redux - 1yRedis - 0.5yTypeScript - 0.5yApplying OOP / FP patterns - 0.5yCommunicationEnglish: Written and Spoken - 1yTeam player: Agile / SCRUM / XP - 3yTechnologies that will be a plusApache KafkaNATS streamingRabbitMQElasticsearchKubernetesMicroservicesGolang, Python, ML/AI, Deep learningGraphQLRedux Saga or Redux ObservableAny technologies mentioned in the application stack is a plus.",
+    "location": "Ukraine",
+    "skills and expertise": [
+        "MySQL",
+        "node.js",
+        "PostgreSQL",
+        "Angular.js",
+        "MongoDB"
+    ]
+},
+{
+    "title": " Installing wildcard  SSL for different domain and integrate with WizIQ streaming   Installing wildcard  SSL for different domain and integrate with WizIQ streaming  ",
+    "project rate": "$10.00 – 30.00 CAD",
+    "description": "Oneium is an international accessible educational platform that provide secure payment, convenient scheduling, and live stream service for international users between professional provider and user who seeks for knowledge or information.please see https://www.oneium.con for visualization and more information about the platform.",
+    "location": "Canada",
+    "skills and expertise": [
+        "Website Design",
+        "Software Architecture",
+        "MySQL",
+        "HTML",
+        "Full Stack Development"
+    ]
+},
+{
+    "title": " Mapping organics materials data  Mapping organics materials data ",
+    "project rate": "$250.00 – 750.00 USD",
+    "description": "This project will produce a heat map of available organics material data by city jurisdiction for Los Angles and San Diego counties. The final map will include the following: existing landfills and the volumes of materials they process, existing compost facilities and volumes of materials processes and total volume capacity, existing transfer stations and a visualization of available organic materials by municipal jurisdiction. We will provide most of this data for you. For some data you will need to perform a scrape of an exiting database and we will provide you the links to that database. ",
+    "location": "United States",
+    "skills and expertise": [
+        "Graphic Design",
+        "Web Scraping",
+        "Data Mining",
+        "Google Maps API",
+        "Geographical Information System (GIS)"
+    ]
+},
+{
+    "title": " Web Pages Collection and Information Extraction Instructions -- 3  Web Pages Collection and Information Extraction Instructions -- 3 ",
+    "project rate": "$250.00 – 750.00 USD",
+    "description": "Please note: Worker who is legally eligible to work in US is preferred.1.\tProject DescriptionsThe purpose of this project is to design a system to collect project, bidding, and worker information from an online freelancing website.2.\tSystem SpecificationThe system needs to have the following functions:•\tCollecting information on new projects and new bidders for these projects (not collected yet) every three days•\tUpdating information for collected projects (projects existing in the system) every three days.•\tProcessing collected web pages and put extracted information into database (SQL Server is preferred).•\tIf errors occurs, the system will alter by sending emails.The collection will have two stages: Initial stage and update stage:•\tInitial stage: Collecting existing projects (active and some ended projects)•\tUpdate Stage: Collecting new information and updating information for existing collection.Instruction file will be available upon request.",
+    "location": "United States",
+    "skills and expertise": [
+        "Python",
+        "Web Scraping",
+        "Amazon Web Services",
+        "Microsoft SQL Server"
+    ]
+},
+{
+    "title": " Billing Specialist - 2  Billing Specialist - 2 ",
+    "project rate": "$25.00 – 50.00 USD /hr",
+    "description": "Billing Specialist ResponsibilitiesInclude:Receiving and sorting incoming payments with attention to credibilityManaging the status of accounts and balances and identifying inconsistenciesIssuing bills, receipts and invoicesJob briefWe are looking for a competent Billing specialist to undertake a variety of financial and non-financial tasks in order to help guarantee the company’s revenues. You will handle the processing of incoming payments along with the issuing of necessary paperwork.ResponsibilitiesAssume the responsibility of receiving and sorting incoming payments with attention to credibilityManage the status of accounts and balances and identify inconsistenciesIssue and post bills, receipts and invoicesCheck the validity of debit accountsUpdate accounts receivable database with new accounts or missed paymentsEnsure all clients remain informed on their outstanding debts and deadlinesProvide solutions to any relative problems of clientsWrite thorough reports on billing activity with clear and reliable dataRequirementsProven experience as billing specialistAdherence to laws and best practices in regards to dealing with customers and dataComfortable dealing with numbers and the processing of financial informationExcellent knowledge of MS Office (particularly Excel) and ER software (JDE or other)Proficiency in EnglishResults-driven and patientHigh degree of attention to detail and trustworthinessBSc degree in Finance, Accounting or BA",
+    "location": "Colombia",
+    "skills and expertise": [
+        "PHP",
+        "Accounting",
+        "Excel",
+        "Microsoft Access",
+        "MySQL"
+    ]
+},
+{
+    "title": " A business website to sell formal clothing to retail customers (B2C)   A business website to sell formal clothing to retail customers (B2C)  ",
+    "project rate": "₹12,500.00 – 37,500.00 INR",
+    "description": "1. Will have customisation options (around 5)  for every clothing line eg for shirts: option of size, collar type, neck style, fabric type, shoulder shape etc. 2. Linked to payment gateway. 3. sms and e-mail interface to acknowledge and manage order, shipping etc.  4. Customer database collection and processing.   ",
+    "location": "India",
+    "skills and expertise": [
+        "PHP",
+        "Website Design",
+        "eCommerce",
+        "MySQL",
+        "HTML"
+    ]
+},
+{
+    "title": " Install and configure Pixelfed.  (Linux, PHP, Lavarel)  Install and configure Pixelfed.  (Linux, PHP, Lavarel) ",
+    "project rate": "$30.00 – 250.00 USD",
+    "description": "This project will be to Install and configure a fully working production ready instance of Pixelfed on a fresh VPS that we will provide.About Pixelfed:  https://docs.pixelfed.org/NginxMySQL 5.6+, PostgreSQL 10+ or MariaDB 10.2.7+PHP 7.2+ with the following extensions: bcmath, ctype, curl, exif, iconv, intl, json, mbstring, openssl, tokenizer, xml and zipRedis for in-memory caching and background task queueingImageMagick for image processingThis could become an ongoing administration contract for the right candidate.",
+    "location": "",
+    "skills and expertise": [
+        "PHP",
+        "Linux",
+        "Nginx",
+        "MySQL"
+    ]
+},
+{
+    "title": " Debugging and modification of an e-commerce project (B2C marketplace) - payment system based on cryptocurrencies  Debugging and modification of an e-commerce project (B2C marketplace) - payment system based on cryptocurrencies ",
+    "project rate": "€250.00 – 750.00 EUR",
+    "description": "Debugging and modification of an e-commerce project (B2C marketplace) - payment system based on cryptocurrencies- Program structure based on Laravel Framework;- Paymentsystem based on BTC, LTC and XMR (integration via own developed interfaces - Bitcoin- and Litecoincore as well as Monero Node are already installed on the test server).Tasks:- Debugging and modification of the implemented payment system for BTC and LTC; integration of a PHP based QR-code generator for the deterministic wallet addresses for BTC, LTC and XMR);- Modification and redesign of an integrated forum (multiple categories, open and restricted user groups, predefined HTML and css design);- Modification and redesign of an integrated messaging system (NO external function - only DB embedding);- Integration of a dispute function (buyer / seller / support moderator);- Modification of the existing rankingsystem for sellers and buyers;- Modification of the review function for sellers and buyer - link to the ranking system;- Bugfix and some script modification;- Modification of the admin panel (integration of new functions);- Complete removal of all javascript elements, Google Api's etc;- Cleanup and removal of useless scripts from the Laravel structure;Requirements:- Very good knowledge of Laravel, PHP, MySQL, javascript, HTML and css;- Very good knowledge of the implementation of payment systems based on cryptocurrencies by using of own interfaces and Api's - good knowledge of blockchain technology (NOT talking about the embeding of Api's from third-party Api's providers such as Coinbase, Coinomi etc.);- Adherence to the given time frame;- Compliance with the given financial budget (please NO offers based on hourly rates - I only accept offers with GUARANTEED fixed prices!);- Communication and data exchange exclusively via the Messenger Telegram (mandatory requirement!);- Processing of all scripts exclusively on the development server (NO processing on your localhost!!!);- Daily documentation of your work performance! Transparency and traceability of your work is absolutely mandatory!- Good accessibility and communication skills (good English - spoken and written - is also mandatory!).Payments:All payments will take place exclusively via freelancer.com!When placing the order to you, I will release an advance payment as the first milestone (20% of total). After COMPLETION of the project, another milestone of 50% of the total amount will be released. The remaining 30% of the total amount will be released after your work has been finally checked and the result is for 100% satisfactory.Further information:Further information (url) and access to the development server on request!",
+    "location": "",
+    "skills and expertise": [
+        "PHP",
+        "JavaScript",
+        "MySQL",
+        "HTML",
+        "Laravel"
+    ]
+},
+{
+    "title": " USA Telemarketing Process  USA Telemarketing Process ",
+    "project rate": "$250.00 – 750.00 NZD",
+    "description": "Data mining is one type of data processing system in which sophisticated data search capabilities, data analysis techniques and superior statistical tools are utilized for analyzing the quality of date in a large database to ensure its exactness and completeness.Many business firms are outsourcing this type of back office services to offshore companies like India for minimizing their overhead costs",
+    "location": "India",
+    "skills and expertise": [
+        "Data Processing",
+        "Research",
+        "Web Scraping",
+        "Leads",
+        "Data Mining"
+    ]
+},
+{
+    "title": " Web Scraping and Data Processing  Web Scraping and Data Processing ",
+    "project rate": "₹600.00 – 1,500.00 INR",
+    "description": "Need help with Web Scraping and Data Processing",
+    "location": "",
+    "skills and expertise": [
+        "PHP",
+        "Python",
+        "Web Scraping",
+        "Software Architecture",
+        "Data Mining"
+    ]
+},
+{
+    "title": " Video streaming website  Video streaming website ",
+    "project rate": "$1,500.00 – 3,000.00 USD",
+    "description": "We are looking for coder/coders to build our video related website.\n\nWhat skills are we looking for?\nPHP, MySQL, JavaScript, Jquery, CSS, Ajax, HTML5, video encoding.\n\nThe website must be done from scratch, no reverse engineering or pre made scripts. \nUsers and video management at admin panel, we need our own video player with special features, regional translations, PayPal and other payment gateways.\n\nWe know some coding, so we won’t ask for anything impossible.\nThe website must be responsible.\nWe are looking for something very close to YouTube and Netflix with more add-on\nMore details will be provided",
+    "location": "United States",
+    "skills and expertise": [
+        "PHP",
+        "JavaScript",
+        "Website Design",
+        "CSS",
+        "MySQL",
+        "HTML5"
+    ]
+},
+{
+    "title": " Need help building code to use combination of Selenium and REST requests to sync data from websites  Need help building code to use combination of Selenium and REST requests to sync data from websites ",
+    "project rate": "$30.00 – 250.00 USD",
+    "description": "I am a engineering lead at a company that is trying to build software to help others sync their data with other websites. There are dozens of them and I need more help in order to meet our next deadline. I already have a software interface already that I will need you to implement for each website. We are using Python and Django. High level functions include: - Login and storing session - Reading and writing data - Periodic syncingIf you are interested, please let me know what kind of work you have done that relates to this project. Thanks",
+    "location": "United States",
+    "skills and expertise": [
+        "JavaScript",
+        "Python",
+        "Web Scraping",
+        "Selenium Webdriver",
+        "Selenium"
+    ]
+},
+{
+    "title": " Lead Extractor  Lead Extractor ",
+    "project rate": "$30.00 – 250.00 USD",
+    "description": "We are basically into Services Industry.  Looking at Freelancers who will extract and give Leads to us from Software Companies, Pharma Industry, Infrasturcture, Engineering, Industries in India",
+    "location": "India",
+    "skills and expertise": [
+        "Data Entry",
+        "Excel",
+        "Web Scraping",
+        "Leads",
+        "Data Mining"
+    ]
+},
+{
+    "title": " Dockerize, customize and add features of a Data Analytics Tool  Dockerize, customize and add features of a Data Analytics Tool ",
+    "project rate": "€18.00 – 36.00 EUR /hr",
+    "description": "We are a tech company that produces AI-powered Media Outlets and stands out as a groundbreaking innovator in the huge market of digital publishing.We're looking for a freelance to:- Dockerize- Develop new features- Customize- Deploying in productionof an existing PHP project focused on SEO Data Analytics.We are looking for a long-term relationship with someone to do a combination of hourly work and project-based work. The specific project our initial needs are to be deployed and improved.You can work remote or in our office based in the center of Milan.",
+    "location": "Italy",
+    "skills and expertise": [
+        "PHP",
+        "Website Design",
+        "Software Architecture",
+        "MySQL",
+        "HTML"
+    ]
+},
+{
+    "title": " Install Oracle EPPM, Unifier, Analytics, BI and development  Install Oracle EPPM, Unifier, Analytics, BI and development ",
+    "project rate": "$750.00 – 1,500.00 USD",
+    "description": "We need to install the above products as a pilotthen we will need to developBPReportsFormsPrint outsPlease give price for installationand price for each item developmentYou need to show similar work done before",
+    "location": "Saudi Arabia",
+    "skills and expertise": [
+        "SQL",
+        "Oracle",
+        "MySQL",
+        "Database Administration",
+        "Analytics"
+    ]
+},
+{
+    "title": " Google Analytics - WordPress: Troubleshoot GA Segment of logged-in WP visitors  Google Analytics - WordPress: Troubleshoot GA Segment of logged-in WP visitors ",
+    "project rate": "$250.00 – 750.00 USD",
+    "description": "We have a single WordPress Instance which serves 2 unique audiences.  A subsection of the site (about 30 pages/posts) is only accessible to visitors that authenticate (via SSO) with a client-hosted Identity server...when a visitor successfully logs in with SSO our WP instance creates a user account for them, and assigns them to custom roles that we have created.  NOTE: the users do not see/know that they have logged into our WP instance (all admin controls are hidden for them).  We need to filter all of our Google Analytics Data by these two groups \"logged-in users\" -vs- \"public visitors\".  We already have GA Universtal Tracking + GTM with lots of custom-event tracking in place on the site...all of this is being filtered into (1) single dashthis.com Analytics Dashboard that we provide to our client each month.---We have this segment created already, it has been active for over a year.  Recently - the segment stopped reporting.  looking for someone to help troubleshoot/restore this customization.  ---I can see that we have a Logged-In Trigger in GTM, and that event - is making it's way into our GA dashboard as a custom Logged-In Segment.  Not sure what went wrong here, or how to restore.",
+    "location": "United States",
+    "skills and expertise": [
+        "PHP",
+        "WordPress",
+        "Google Analytics",
+        "MySQL",
+        "HTML"
+    ]
+},
+{
+    "title": " Codeigniter Developer  Codeigniter Developer ",
+    "project rate": "₹1,500.00 – 12,500.00 INR",
+    "description": "So we have bought a script via codecanyon which is STACKPOST , the idea behind the script is to connect all social media accounts under one hood , so agency/business can post it on different platform on a single click.So we want to add a Module - INSTAGRAM in this script where user can connect instagram account with us using GRAPH API (https://developers.facebook.com/docs/instagram-api) .After connecting we are expecting following things :1. User Can Post/Schedule From Our Script On Instagram platform.2. User Can View Instagram post under the list of published post.3. User Can Edit/Delete the post.4. User Can View Likes/Comments in our script for specific post.The above module is already made by them , but the issue is that they haven't used Instagram Graph API , Instead they are storing token/cookies while making user login on instagram inside the script.So we want instagram module to be made with the graph api support.Requirements :(PHASE - 1 )1. Instagram Module Graph Api Based (explained above)2. Custom Design of the Frontend & Backend (Design will be shared from our end)3. We require mobile app API .(PHASE - 2 )1. Analytics2. Ads PlatformThanks",
+    "location": "India",
+    "skills and expertise": [
+        "PHP",
+        "Website Design",
+        "Codeigniter",
+        "MySQL",
+        "HTML"
+    ]
+},
+{
+    "title": " Build marketplace web application   Build marketplace web application  ",
+    "project rate": "$250.00 – 750.00 SGD",
+    "description": "We are looking for a team of professionals who can deliver quality product within 60 days.We are looking to build marketplace for Tecahers to register and create classes and conduct classes using zoom integration, I have the BRD ready and want Logo design, UI/UX, Frontend, Backend development, Integration with 3rd parties like video calling and payment provider's API. I want this application to be deployed on in house data center first and after 3 months migrate to aws cloud.Here is an overview of our requirements:Teacher space:Registration/Apply Class creation with upload resource options(Image,video,worksheets etc)Dashboard with all learners info, inetractions with learners and zoom link segregated per class, previous interaction historyPayment tab to save account details and trigger payouts and view history of earningsParent/Students Space:Option to view any class based on different filters age, price, subject, teacherDashboard to chat with teachers and connect to zoom sessionAdmin Space:All content should be configurable from CMS, billing systems, dashboard for both customer and service provider space and integration with 3rd party tools for messaging and notificationsSchool Space:There should be an information page for a school describing how to onboard with Shalom on homepageFrom homepage singup account or enter credentials provided by shalom team to loginLast field should have drop down option: Principal, School AdminSchool Admin should be able to add staff with first and last name, email address and phone noSchool Admin should be able to add Dynamic Role Group, and define access level for staff which will let them perform parent onboarding(7 -9) and create class.School Admin should be able to add parent with student name, parent’s first and last name, email address and phone no and unique school check-in code(to differentiate with others)School admin/staff should be able to send invite to parents to join shalom, School admin should see parents who have joined and should be able to trigger reminder for those who haven’tSchool admin should be able to enrol student to any independent class from class pageSchool admin is directed to create classes same as indepdent teacher format F#_0015.3  Classes created by School should only be visible under school account/ school check-in code loginsThere should be dedicated section “Your School classes” featuring classes created by School and selected by School admin from general classes  on top followed by recorded classes(free) followed by rest of the sections of independent classes (TBD if any discount to be provided) F#_0017.7  School admin should be able to view Professional Development programs section offered by Shalom and enrol staff for sameSchool Admin/authorised role group should have access to export all reportsTechstack:Angular nodejs MysqlWeb Application to be compatible on mobile, pad and laptopWeb Application and DB should support Linux hosting on cloud platform and make use of all cloud services like S3, S3IA, S3 GlacierWeb Application should support multiple instances and ASG for auto scalingWebsite should support all SEO teachniques on-site SEO,off-site SEO, on-page SEO, off-page SEOGoogle analyticsContractor should be comfortable signing NDAs & contracts1 year of bug fixing support and warranty to cover fixes required for any breakage due to work deployed by Contractor.Detailed BRD to be shared before assigning project ",
+    "location": "",
+    "skills and expertise": [
+        "Website Design",
+        "MySQL",
+        "HTML",
+        "node.js",
+        "Angular.js"
+    ]
+},
+{
+    "title": "",
+    "project rate": 0,
+    "description": "",
+    "location": "",
+    "skills and expertise": []
+},
+{
+    "title": "  copy resulting RSS feed link into CSV spreadsheet   copy resulting RSS feed link into CSV spreadsheet ",
+    "project rate": "$25.00 – 50.00 USD /hr",
+    "description": "step 1: Google search query ('\"itunes cannabis podcasts\") Step 2: copy url into provided website ([login to view URL]) Step 3: copy resulting RSS feed link into CSV spreadsheetData Entry Data Mining Excel PHP Web Scraping",
+    "location": "Nigeria",
+    "skills and expertise": [
+        "PHP",
+        "Data Entry",
+        "Excel",
+        "Web Scraping",
+        "Data Mining"
+    ]
+},
+{
+    "title": " Need website develop  Need website develop ",
+    "project rate": "€250.00 – 750.00 EUR",
+    "description": "HelloNeed full script with template and admin panel for cloud mining websiteNeed ready made scripts to start bussinessOnly non shared scripts owners may apply",
+    "location": "",
+    "skills and expertise": [
+        "PHP",
+        "Website Design",
+        "Graphic Design",
+        "MySQL",
+        "HTML"
+    ]
+},
+{
+    "title": " Data mining expert  -- 2  Data mining expert  -- 2 ",
+    "project rate": "$30.00 – 250.00 USD",
+    "description": "I need a data mining expert . We are are a wealth management company based in both Dubai and Malaysia. I am hoping to gather some data so we can contact potential new clients in order to gain new business depending on their situation. Any expats/ foreigners that are currently living and working in Bangkok Thailand potentially wanting to seek financial advice is the ideal target audience we need. ",
+    "location": "United States",
+    "skills and expertise": [
+        "Data Processing",
+        "Research",
+        "Web Scraping",
+        "Data Mining",
+        "Big Data Sales"
+    ]
+},
+{
+    "title": " Data Mining For Social Media Platforms With Python  Data Mining For Social Media Platforms With Python ",
+    "project rate": "$250.00 – 750.00 USD",
+    "description": "I'm looking for a good Python data mining expert to support me with my small projects. The main topic is ongoing automation and data mining from social media groups (e.g. FB) to generate test data and export it in JSON files. I'm less or more familiar with the possibilities and procedures, but lacking the time. Step 1:Robust script for one social media platform for fully-automated data mining from my FB user-groups.Requirements:3-5 years deep Python experience, reference projects, JSON, Beautiful Soup, Selenium, Pandas, ML basics, versioning with git, writing documentation in English, closing service tickets.",
+    "location": "",
+    "skills and expertise": [
+        "Python",
+        "Web Scraping",
+        "Software Architecture",
+        "Machine Learning (ML)",
+        "Data Mining"
+    ]
+},
+{
+    "title": " Data mining  Data mining ",
+    "project rate": "$10.00 – 30.00 USD",
+    "description": "From an Excel doc of about 1000 rows( that contains names and addresses)  i need the email addresses ...",
+    "location": "",
+    "skills and expertise": [
+        "Data Processing",
+        "Data Entry",
+        "Excel",
+        "Web Scraping",
+        "Data Mining"
+    ]
+},
+{
+    "title": " USA Telemarketing Process  USA Telemarketing Process ",
+    "project rate": "$250.00 – 750.00 NZD",
+    "description": "Data mining is one type of data processing system in which sophisticated data search capabilities, data analysis techniques and superior statistical tools are utilized for analyzing the quality of date in a large database to ensure its exactness and completeness.Many business firms are outsourcing this type of back office services to offshore companies like India for minimizing their overhead costs",
+    "location": "",
+    "skills and expertise": [
+        "Data Processing",
+        "Research",
+        "Web Scraping",
+        "Leads",
+        "Data Mining"
+    ]
+},
+{
+    "title": " Data scraping/mining from Justwatch.com  Data scraping/mining from Justwatch.com ",
+    "project rate": "₹1,500.00 – 12,500.00 INR",
+    "description": "I want to get the data of all Movies and TV Shows available on Justwatch.com for India. The details required for each movie/tv show are:- Name of Movie/TV Show- All platforms its available on (Netflix, Amazon Prime etc)- Primary/Original language - IMDb id - Youtube trailer link- Price type (Free, Ads, Subscription, Buy, Rent)- Price (for Buy or Rent)- Quality (SD, HD, 4K)- Deeplink URLs to play the title on respective platforms",
+    "location": "",
+    "skills and expertise": [
+        "PHP",
+        "Web Scraping",
+        "Data Mining",
+        "Web Crawling",
+        "Data Scraping"
+    ]
+},
+{
+    "title": " data mining and data science with python  data mining and data science with python ",
+    "project rate": "€8.00 – 30.00 EUR",
+    "description": "hi , we have a collection of various log user data & need to be arranged and be charted for further analysewe're in rushmain data is about users log to our chain of applications",
+    "location": "Germany",
+    "skills and expertise": [
+        "Python",
+        "Web Scraping",
+        "Software Architecture",
+        "Machine Learning (ML)",
+        "Data Mining"
+    ]
+},
+{
+    "title": " Full-Stack Developer (English Fluent)  Full-Stack Developer (English Fluent) ",
+    "project rate": "€750.00 – 1,500.00 EUR",
+    "description": "In 2018, Holidog decided to face a new challenge: launching Hector Kitchen! Here's how we think: our furry best friends all have specific needs, depending on their age, breed and many other factors, just like us humans. With Hector Kitchen, our bespoke pet-food service, we provide a healthy option with quality ingredients and recipes tailored to your pet’s needs.Hector Kitchen isn’t just a treat for pets, our mission is also to make everyone’s pet-food purchase hassle free. As Hector Kitchen & Holidog’s IT team, we are the infrastructure that enables us to provide a unique experience for our human customers. Through technology and innovation, we continuously ensure the proper running of our businesses, the best quality experience for our customers and the evolution of our products.Ready to be a part of the pet-food revolution? Come aboard Hector Kitchen’s IT team!What you will do:- Working with our development team to ideate software solutions- Testing software to ensure responsiveness and efficiency- Working with our data team to improve software- Designing client-side and server-side architecture- Building features and applications with a mobile responsive design- Building the front-end of applications through appealing visual design- Writing effective APIs- Creating security and data protection settings- Troubleshooting, debug and upgrading software- Writing technical documentationOur ideal teammate:Tech skills:- Education: Degree in Computer Science, Statistics or relevant field- Experience: Proven experience as a full-stack developer or similar role and experience developing desktop and mobile applications. Familiarity with common stacks.- Languages: Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript, XML, jQuery) and multiple back-end languages (e.g. C#, Java, Python). As well as JavaScript frameworks (e.g. Angular, React, Node.js)Database: Familiarity with databases (e.g. MySQL, MongoDB), web servers (e.g. Apache) and UI/UX designSoft skills:- Excellent communication skills: You can communicate efficiently and professionally with the customers, your teammates and managers. You are a fluent English speaker.- Rigorous: You have an eye for detail and always ensure the highest quality of work.- Adaptable, organized and efficient: You can adapt to changes, keep up with the demands of an expanding startup and you are comfortable in an agile work environment.- Ownership: You take responsibility over the mistakes you can make and know how to learn from them.- Innovator spirit: You can use your analytical skills to be proactive, carry out projects and leave your mark on Hector Kitchen.Additional info:- Start: ASAP- Contract: Freelance- Location: Remote- Compensation: According to profile",
+    "location": "France",
+    "skills and expertise": [
+        "Java",
+        "JavaScript",
+        "MySQL",
+        "node.js",
+        "MongoDB"
+    ]
+},
+{
+    "title": " data mining and data science with python  data mining and data science with python ",
+    "project rate": "€8.00 – 30.00 EUR",
+    "description": "hi , we have a collection of various log user data & need to be arranged and be charted for further analysewe're in rushmain data is about users log to our chain of applications",
+    "location": "Germany",
+    "skills and expertise": [
+        "Python",
+        "Web Scraping",
+        "Software Architecture",
+        "Machine Learning (ML)",
+        "Data Mining"
+    ]
+},
+{
+    "title": " Indian  IT / Computer science  graduate freshers or students with Good communication  Indian  IT / Computer science  graduate freshers or students with Good communication ",
+    "project rate": "₹100.00 – 400.00 INR /hr",
+    "description": "Good communication Experts &  IT / Computer science  graduate freshers or students. Fluency of English should be good . Don't apply if you are not good at English. IT / computer science background and good at SQL , should know about database such as Oracle/ MySQLsearchPlease apply if you are fresher or student who would like to earn Rs 5000 to Rs 25000 . ****We don't hire any agency please don't apply this job********this job is only for Indian. Please don't apply other country candidates ********If you can't spend more than 100 hours  please don't apply ****   ",
+    "location": "India",
+    "skills and expertise": [
+        "SQL",
+        "Research Writing",
+        "MySQL",
+        "Content Writing",
+        "SEO Writing"
+    ]
+},
+{
+    "title": " Build a Mobile Application for Packing and Moving - Logistics  Build a Mobile Application for Packing and Moving - Logistics ",
+    "project rate": "₹12,500.00 – 37,500.00 INR",
+    "description": "I aim to get a mobile application developed for my business. My business is into logistics and warehousing. I would like to get the mobile app and webpage based system developed. Details of the process is mentioned in the attached pdf.",
+    "location": "France",
+    "skills and expertise": [
+        "Website Design",
+        "Mobile App Development",
+        "iPhone",
+        "Android",
+        "MySQL"
+    ]
+},
+{
+    "title": " Artificial intelligence web system.  Artificial intelligence web system. ",
+    "project rate": "$250.00 – 750.00 USD",
+    "description": "I need a web system with artificial intelligence to receive the user's request, that user will fill out a simple form but the system will have to be able to absorb what was written and according to the content of the text the system will automatically forward this request for a particular sector or department, and feed a database.",
+    "location": "",
+    "skills and expertise": [
+        "PHP",
+        "JavaScript",
+        "MySQL",
+        "Artificial Intelligence",
+        "React Native"
+    ]
+},
+{
+    "title": " Laravel Expert needed  Laravel Expert needed ",
+    "project rate": "$25.00 – 50.00 USD /hr",
+    "description": "i have a big project built with laravel and need some configurations.Only bid if you think you are expert.this is very urgent.",
+    "location": "Belarus",
+    "skills and expertise": [
+        "PHP",
+        "Website Design",
+        "MySQL",
+        "HTML",
+        "Laravel"
+    ]
+},
+{
+    "title": " Multi Vendor Bitcoin Escrow Marketplace  Multi Vendor Bitcoin Escrow Marketplace ",
+    "project rate": "$1,500.00 – 3,000.00 USD",
+    "description": "Looking for experienced PHP and and MySQL devs.Here's some help: Open Source Bitcoin Marketplace Softwarehttp://bit-wasp.orghttps://github.com/Bit-Wasp/BitWaspSomething similar to how Silk Road and Empire Market are designed. I like the idea behind how the websites work and think it's a good solution for legal P2P trading.Note: This will be used for LEGAL transactions (accessed on a regular .com address) of collectible items between users worldwide, while respecting their privacy and anonymity.No Javascript on site.There should be a possibility for a user to register either as a vendor (sellers account), or a buyer (normal account). A vendor should be able to upload pictures and info to his items.There should be an Escrow functionality. The site should get an adjustable percentage of the finished deals.There should be an admin panel for maintenance, resolving disputes and support.There should be a Bitcoin handling mechanism. It is recommended to run Bitcoind as client only to connect to blockchain.info. No blockchain download, no local wallet. [1]The site should be focused on speed, ie. no big graphics, no cpu intensive computations, no java or javascript.The suggested achitecture is a LAMP-stack, but other sort of arrangement could be possible as long it runs under Linux.The forum part will be a ready made forum script and not required to be coded.There should be three types of access permissions=================================================Administrator: Access to every part of the site.Support: Access to read and reply to support tickets. Resolving disputes, only access to funds placed in escrow.User: Access to own account onlyThere should be no captcha on the site. A user should instead be UNIX-like blocked from access after 5 failed login tries for 20 min.All EXIF data should be removed from JPG's when uploaded to the site. [2]The menu and sub-menu items===========================LogoutMy Account- Become a seller- Balance- Deposit- Withdraw- Withdraw to account- FeedbacksCategories+ Possibility to filter-Sorting-Domestic -from- -to-Shopping Cart- Shopping cart- Address- Escrow mode- ThanksOrders- New Orders- Accept Orders- Sent Orders- Finished Orders- ReclamationsPrivate Messages (Encryption GPG)- New message- Inbox- SentSettings- 2-FA GPG - Two-Factor GnuPG for Two-Factor?- Password- PGP- PIN For all user for withdraw money any user create the pin FIRST TIME WHEN CREATE MEMBER- ProfileSupport- Report a problem- SupportForum[1] https://blockchain.info/api/json_rpc_api[2] http://stackoverflow.com/questions/3614925/remove-exif-data-from-jpg-using-php",
+    "location": "Thailand",
+    "skills and expertise": [
+        "PHP",
+        "JavaScript",
+        "Website Design",
+        "MySQL",
+        "HTML"
+    ]
+},
+{
+    "title": " PHP full-Stack developer with at least 3 years. e-commerce – Shop   PHP full-Stack developer with at least 3 years. e-commerce – Shop  ",
+    "project rate": "$25.00 – 50.00 USD /hr",
+    "description": "We do not want to collaborate with a company that has a project manager who will give task to other employees.We are looking for an independent technician, that we want to have a long-term collaboration, over several years.There will be a lot of task and work. But the first task. Integration with Klarna we want on fixed hoers. So you need to calculate how many hoers it will take.Rest of task you will work on pr. Hoers. But if we see that you are working to slow or use to long time to fix this, then you are not the right man for us.You need to work a lot, because we want fast progress. So if you only have 10 hoers a week for work with this project then you are not right for us.e-commerce – Shop.It's e-commerce project written on PHP with using our own-developed framework.We are looking for an energetic, self-motivated, and team player individual who is interested in developing different features in e-commerce project and join our growing team of highly-motivated developers.The ideal candidate is a PHP full-Stack developer with at least 3 years of experience in PHP, MySQL, JS, JQuery, HTML, CSS, and Bootstrap. The position requires front-end and back-end development skills.Qualifications and SkillsPHPMySQLHTML 5CSS 3JavascriptjQueryAjaxBootstrapGITTwigOne of your first task will be to implement Klarna API. If you have not work with this before and are not familiar with this, then you are not the right candidate.https://developers.klarna.com/documentation/merchant-shipping/api-integration/Project description:Tonerweb.no - web shop, based on custom framework (PHP + MySQL). Shop includes customer part and admin part. We already have a lot of functionality inside. Shop worked in Norway and it doesn’t have multi language functionality.Now we decided to open similar stores in Sweden and Denmark. We’ll start from Sweden.So we’ll duplicate current platform and change it. Main idea is to create platform and use it as marketplace. So we’ll make bridge to sync products, customers, orders between main shop - Tonerweb.no and relative shops - tonerweb.se and tonerweb.dk. (we do this today with Magento but we are not happy with Magento, and want to change magento Tonerweb.se and DK to our own shop)Also in new shops we’ll use another payment provider, shipment provider, etc.- We will Copy current shop version to new repository- Clear up DB (orders, emails, etc) witout clients- Prepare server and configure shop. – Digital oceanWe will need to do these changes:1.Integrate with Klarna Payments (we will use this provider in Sweden and Denmark).Klarna checkout - create and set up API against Klarna:https://developers.klarna.com/documentation/merchant-shipping/api-integration/For now we are using our own checkout, with card and payment integration.For new site we’ll use Klarna for all payments. So we’ll not have options with payment type selection as we have now. This process will be done inside Klarna.https://www.screencast.com/t/f24Csj77G5Dw- Also will be good to get customer delivery details by the customer’s email if it’s possible from Klarna. I think klarna provide this.-If Klarna will not provide this data - we will need to change logic for getting pickup points for Postnord from NO to SE. We are getting these points by customer’s postcode. We get this info From PostNord API. We do this in the Norwegian shop, and this will be a small change to have same in SE and DK. (new twin shops)2.Unifaum Setup. IntagrationAdapt shipment provider to send out parcels from new shopWe already have integration, but need to change to SE and DK with Unifaujm. This is not a big task, since we have all up and working today in .NO3.Please take a look on this video: https://drive.google.com/file/d/1emHz_KIAOhh5rSc5hpwrOgusFioGX7SW/view?usp=sharingIf you have any questions, please be free to ask.",
+    "location": "",
+    "skills and expertise": [
+        "PHP",
+        "eCommerce",
+        "MySQL",
+        "API"
+    ]
+},
+{
+    "title": " Airbnb scraping project  Airbnb scraping project ",
+    "project rate": "$30.00 – 250.00 USD",
+    "description": "Hello there,My English is not very good, so please feel free to contact me if there is something I am not clear about.I need a crawler expert to help me crawl all the listings in a certain city on airbnb.cn. so what I need is the python source code that can achieve this purpose.Here is the details:Let's say Shanghai, there are roughly 50,000 to 60,000 listings. I need the code to be able to capture this amount of data within 2 hours.Considering that one page of airbnb displays 20 listings, and the information I need is all on this page, so even 60,000 listings information only need to be visited about 3000 times, which should not be difficult.The real difficulty is that airbnb can only display 300 listings at a time in a city, so how to grab all the listings in this city has become a big problem. If you use filters and price combinations to filter, some places in Shanghai will still exceed the limit of 300 links, so I am more inclined to use a combination of latitude and longitude and display range to solve this problem.The information I need is like the pictures below.Hope someone can solve my problem.thank you all",
+    "location": "China",
+    "skills and expertise": [
+        "Python",
+        "Web Scraping",
+        "Software Architecture",
+        "Data Mining"
+    ]
+},
+{
+    "title": " Need a php programmer to do small customization of wordpress plugin \"Mycred\"  Need a php programmer to do small customization of wordpress plugin \"Mycred\" ",
+    "project rate": "$10.00 – 30.00 USD",
+    "description": "Need a php programmer to do small customization of wordpress plugin \"Mycred\". budget is listed here, delivery needed in 24-48 hours,Please no time wasting, no rubbish big offers, do the job and get your money, I'll not accept any offer before I see the result, I have wasted lot of time, commission and bad reviews here finding' the right person.if you do the job, you'll get paid,every detail is in the file, just download and install in your local server, check the code, add conditions, test the plugin, take your reward and handover files.Need to apply these two conditions 1- need option for fixed assign of reward points per product individually,(admin must have the option of switching the percentage of points and price on each product of that category individually to redeem with points + payment).exampleon shop page of that category, if the product XYZ = 300$,product price label should show 250pts + 50$-if the product ABC = 120$,product price label should show 80pts + 40$-so if user buy any product from this particular category they have to pay partial by cash,admin must have the option to change the product points and cash individually which will be fixed for user .If points balance is available in user account he/she can redeem points and pay the other amount via other gateways .if points not available in the account, they have to gain points by referral signups.just need to put two conditions.1- mycred partial payment gateway will work for only 1 category for example i name \"Redemption mall\".2- every product must have the option to set discount point individually.",
+    "location": "United Arab Emirates",
+    "skills and expertise": [
+        "PHP",
+        "WordPress",
+        "Software Architecture",
+        "MySQL",
+        "HTML"
+    ]
+},
+{
+    "title": " Maintain custom/core php website for long term work for a big complex php website  Maintain custom/core php website for long term work for a big complex php website ",
+    "project rate": "₹100.00 – 200.00 INR /hr  Bidding ends in",
+    "description": "Maintain custom/core php website for long term work for a big complex php website. Should be well versed in corephp, javascript, jquery, mysql, html, css. Must be atleast 2 years experience. Availability of 8 hrs everyday between 2 pm to 12 midninght is preferred as per IST. ",
+    "location": "",
+    "skills and expertise": [
+        "PHP",
+        "Website Design",
+        "CSS",
+        "MySQL",
+        "jQuery"
+    ]
+},
+{
+    "title": "",
+    "project rate": 0,
+    "description": "",
+    "location": "",
+    "skills and expertise": []
+},
+{
+    "title": " Web site for shopping store  Web site for shopping store ",
+    "project rate": "$50,000.00+ USD",
+    "description": "our company needs to update site for shopping center . big database and code amount. experts bid here. thanks.",
+    "location": "Russian Federation",
+    "skills and expertise": [
+        "PHP",
+        "Website Design",
+        "Graphic Design",
+        "MySQL",
+        "HTML"
+    ]
+},
+{
+    "title": " EXCEL PIVOT TABLE NEEDED TO SORT CAMPAIGNS RESULTS   EXCEL PIVOT TABLE NEEDED TO SORT CAMPAIGNS RESULTS  ",
+    "project rate": "€6.00 – 12.00 EUR /hr",
+    "description": "NEED:We need to have our data sorted to visualise better the performance of some of our ads.We are looking for a very reliable person (see our requirements below).ON OUR WAY TO WORK WITH OUR FREELANCERS:We don't know yet how often we'll need this type of job done, but we usually work on the long term with people under contract.JOB DESCRIPTION:You'll find in the files attached the description of the work needed.A/ the requirementsB/ an example of the spreadsheets (in .xls, but can also be sent in .csv)C/ for this job, you've got to let us know how many hours will be required and a specific dead line (any proposal with no info about the number of hours will be deleted)SPECIFIC REQUIREMENTS:We've always been satisfied working on the Freelancer platform with honest and reliable freelancers.We have always paid as quickly as possible to thank the freelancer for his/ her good work.That is the reason why :1)  as we usually receive a lot of proposal we ask anyone to respond ONLY if he/ she knows how to do this job quickly2) we ask any proposal to indicate how many hours will be required and a forseeable date for the delivery (responses without this info will be deleted)3)  we ask the awarded freelancer:a) to strictly respect the deadlines: if the job is not delivered on time it will result in the termination of the contractb)  to carefully check the spreadsheet before sending itAs it is not a big table, we will accept NO mistake of any kindIf it contains any calculation or any layout error, it will result in a DISPUTE4) the payment will be made AFTER the table is verified by ourselvesWORKING LANGUAGES:- english- spanish",
+    "location": "France",
+    "skills and expertise": [
+        "Excel",
+        "MySQL",
+        "Excel VBA",
+        "Excel Macros",
+        "Excel VB Capabilities"
+    ]
+},
+{
+    "title": " EXPERT PROGRAMMER IN STREAMING / VIDEO   EXPERT PROGRAMMER IN STREAMING / VIDEO  ",
+    "project rate": "€1,500.00 – 3,000.00 EUR",
+    "description": "PROFESSIONAL PEOPLE AND COMPANY ONLY. NO FAKE PROFILE.TASKS TO DO IN THE ATTACHED FILE.We don't need fake profile freelancer using the company name where they are employed to get an extra job !, We need a programmer/developer  team/ company expert in Streaming for a possible on-going job to install, to add some options and to make some improvements, to manage and to make the maintenance of our Vieo website ( www.r4d4us.com), running under Linux.Tasks to do: The basic installation is done, and we have to add some improvements in the website itself as the registration and options, and to modify the player, meaning the file reader and by adding a simple editing software for users to make their own editing online. We have to make this under a new file format. Specs UBUNTU 16 or 18.Bootstrap, Laravel 5.2, Nginx Server, REDIS Server, MySQLand so for both : PHP >= 5.6.4, OpenSSL PHP Extension, PDO PHP Extension, Mbstring PHPExtension, Tokenizer PHP Extension, XML PHP Extension, MYSQL, Mcrypt enabled, Nginx version: nginx/1.4.6, Redis, Ffmpeg, WowzaAlmost all tasks to do are in the attached fileProfessional people only !First tasks to do: IN YELLOW IN THE ATTACHED FILES. MAKE PROPOSAL WITH BUDGET AND TIMELINE.Add the function for the validation of registration by a link sent to the emailPut a menu under the search bar, with the possibility to display or not each of themAdd a Banner and big Quick Button in the top and bottom of all webpagesMake SubAdmin with choice of allowed accessBig screen in Home pageAsk to allow camera when LiveAdd in Admin subscriptions the allowed servicesPossibility to read different formats of video filePossibility to upload and to save video file other than .mp4Stop button/cancel when uploading videoChoose the time of display of the bannerAdd publicity below the vertical menu below channels button and social buttonsModify video uploading options  etc.TIMELINE NEEDED IN ANY PROPOSAL.NO UPFRONT PAYMENT PROFESSIONAL PEOPLE ONLY ! PROFESSIONAL MEANS RELIABLE AND COMPETENT, NOT JUST A COMPANY NUMBER FOR A MONEY HUNTER LOOKING FOR SUCKERS... TO",
+    "location": "Austria",
+    "skills and expertise": [
+        "PHP",
+        "Nginx",
+        "MySQL",
+        "Bootstrap",
+        "Laravel"
+    ]
+},
+]
