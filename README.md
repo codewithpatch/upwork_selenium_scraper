@@ -1,5 +1,5 @@
 # upwork_selenium_scraper
-Selenium Scraper for Upwork
+Selenium Scraper for freelancer.com
 
 ## Installing dependency
 1. Install the dependency in your virtual environment of the project root directory
@@ -25,6 +25,5 @@ python main.py
 ```
 
 ## Output file
-```
-freelancer.json
-```
+1. Freelancer listing  -> `freelancer.json`
+2. Job listing         -> `projects.json`
